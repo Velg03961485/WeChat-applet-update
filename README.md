@@ -69,6 +69,9 @@ getNre(){
   可以直接复制此函数到更新页面的逻辑中，然后在onShow中调用
 
 
+  ![image](https://github.com/Velg03961485/WeChat-applet-update/blob/master/img/v_1.png)
+
+
   ## 模拟更新
 
   在开发者工具编译栏，下拉-添加编译模式（创建一个新的模式）-启动页路径（你的第一页面的路径-带有更新代码的）-勾选下次编译模拟更新
